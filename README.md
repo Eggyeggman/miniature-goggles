@@ -1,2 +1,1 @@
-# miniature-goggles
-stop
+# PRO-C174-Student-Boilerplate
